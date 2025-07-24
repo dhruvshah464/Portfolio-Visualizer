@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# MacOS
+.DS_Store
+
+# CSV stock data
+stock_data_csvs/
+
+# Streamlit and environment
+.streamlit/
+.env
